@@ -1,4 +1,4 @@
-s (20 sloc)  463 Bytes
+
    
 import * as React from 'react';
 import { Text, View, StyleSheet, Image } from 'react-native';
