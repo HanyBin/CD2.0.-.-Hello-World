@@ -7,7 +7,7 @@ export default function AssetExample() {
   return (
     <View style={styles.container}>
    
-      <Image style={styles.logo} source={require('../assets/cat.jpg')} />
+      <Image style={styles.logo} source={require('../assets/cat.png')} />
     </View>
   );
 }
